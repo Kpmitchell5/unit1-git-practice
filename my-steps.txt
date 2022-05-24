@@ -134,7 +134,13 @@ git status
 
 
 ### Step 6
-
+touch menu.txt
+ls
+git status
+git add .
+git add .
+git commit -m 'starting a menu'
+git status
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
