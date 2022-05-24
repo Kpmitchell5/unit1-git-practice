@@ -118,7 +118,13 @@ rm -r drinks
 ls
 
 ### Step 4
-
+cd OneDrive/Desktop/unit1-git-practice
+ls
+git init .
+git add .
+git add .
+git status
+git commit -m 'first commit' 
 
 ### Step 5
 
